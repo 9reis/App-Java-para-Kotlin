@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 
 @Repository
-interface PersonRepository : JpaRepository<Person?, Long?>
+interface PersonRepository : JpaRepository<Person, Long?>
 
 // Operador de chamada segura
 // fun mstr(value String?) = if(value != null) value?.length else null

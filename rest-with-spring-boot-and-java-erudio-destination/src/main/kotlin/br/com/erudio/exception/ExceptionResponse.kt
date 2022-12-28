@@ -1,4 +1,4 @@
-package com.example.exception
+package br.com.erudio.exception
 
 import java.io.Serializable
 import java.util.*

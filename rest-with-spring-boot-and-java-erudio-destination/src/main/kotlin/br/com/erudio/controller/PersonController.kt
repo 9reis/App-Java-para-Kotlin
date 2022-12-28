@@ -1,4 +1,4 @@
-package com.example.controller
+package br.com.erudio.controller
 
 import br.com.erudio.model.Person
 

@@ -1,4 +1,4 @@
-package com.example.exception.handler
+package br.com.erudio.exception.handler
 
 import br.com.erudio.exception.ExceptionResponse
 import org.springframework.http.HttpStatus
